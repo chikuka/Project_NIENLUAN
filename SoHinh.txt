@@ -1,0 +1,12 @@
+PC_BHA: All: 235
+PC_Retinol: 295
+Simple_TayTrang: 247
+Simple_Toner: 223
+Skin1004_KCN: 249
+Skin1004_KemDuong: 249
+Skin1004_Toner: 248
+SkinAqua_KCN: 247
+=1993
+
+train:1341
+val:652
